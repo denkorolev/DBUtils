@@ -21,6 +21,9 @@ public class Hhhhhh
         try
         {
 
+            Config.loadConfig("config.cfg");
+            
+            
             File file = new File("patch.log");
 
             FileReader fileReader = new FileReader(file);
