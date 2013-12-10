@@ -3,7 +3,7 @@ package hhhhh;
 
 public class LogElement
 {
-public static final String ORA = "ORA";
+public static final String ORA = "ORA-";
 public static final String WARNING = "Warning";
     
     public String fileName;
